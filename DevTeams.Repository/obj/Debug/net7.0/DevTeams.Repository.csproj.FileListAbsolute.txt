@@ -1,0 +1,15 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Data.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Data.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.AssemblyReference.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.CopyComplete
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\refint\DevTeams.Repository.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\13_DevTeams\DevTeams.Repository\obj\Debug\net7.0\ref\DevTeams.Repository.dll
